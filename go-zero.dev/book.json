@@ -26,6 +26,12 @@
     "prism",
     "theme-comscore"
   ],
+  "links": {
+    "sidebar": {
+        "中文": "https://go-zero.dev/cn/",
+        "English": "https://go-zero.dev/en/"
+    }
+  },
   "pluginsConfig": {
     "prism": {
       "lang": {
